@@ -262,8 +262,6 @@ the same terms as the Perl 5 programming language system itself.
 =cut
 
 
-__END__
-
 __DATA__
 appie
 architext
